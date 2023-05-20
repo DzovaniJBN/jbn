@@ -1,0 +1,70 @@
+.has-bg-img {
+  background-image: url(Sliki/spaghetti-g2cd82a41c_1920.jpg);
+	background-size: cover;
+	background-position: center center;
+	height: 100vh;
+	position: relative;
+  width: 100%;
+}
+.has-bg-img p{
+  position: relative;
+  top: 50%;
+  text-align: left;
+  background-color: rgb(56, 235, 113, 0.6);
+  width: fit-content;
+  border-radius: 7px;
+  background-position: center;
+}
+.link-success img{
+  width: 8rem;
+}
+.card{
+  width: 30rem;
+}
+.card-img-top{
+  opacity: 0.65;
+  justify-content: center;
+  height: 25rem;
+}
+.card-img-overlay{
+  color: #fff;
+}
+.card-img-overlay h2{
+  background-color: rgb(175, 209, 197);
+  font-weight: 900;
+  border-radius: 0.6rem;
+}
+.card-title{
+  text-align: center;
+  margin-top: 100%;
+  text-decoration: none;
+}
+
+
+
+
+.container{
+  background-color: rgb(209, 247, 247);
+}
+.align-items-center{
+  align-items: center;
+}
+.justify-content-between {
+  justify-content: space-between!important;
+}
+.d-flex{
+  display: flex!important;
+}
+.fw-bold{
+  text-align: left;
+}
+.fst-italic{
+  font-size: 80%;
+}
+.p-4{
+  background-color: aqua;
+}
+.py-2{
+  background-color: rgb(94, 252, 115);
+}
+
